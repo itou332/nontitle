@@ -1,5 +1,15 @@
 ## 新しい項目
 s===============s
+
+PCで描いた絵をここに記録します。<br>
+このサイトはダークモードにしたり、ブラウザーを変えると見え方が少し変わります。<br> 
+pc,androidのスペックでも絵が変化します。絵はsvg形式で書かれています。<br>
+This is where I record the pictures I draw on my PC.<br>
+This site looks a little different if you use dark mode or change your browser.<br>
+The picture will also change depending on the specs of your PC or android. The pictures are written in svg format.
+
+----
+
 <h3>
 *献立
 -<a href="https://itou332.github.io/top_page/">主項目</a>
