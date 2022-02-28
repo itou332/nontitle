@@ -44,6 +44,10 @@ lang: ja_JP
 <link rel="icon" type="image/png" href="./images/favicon.png" sizes="192x192">
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <meta name="keywords" content="My painting record,記録,私 svg SVG>
+                               
+url: "https://example.com" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
 
 <body>
 <hr>
