@@ -15,7 +15,7 @@ lang: ja_JP
 <p>
 *献立
 -<a href="https://itou332.github.io/top_page/">主項目</a>
--<a href="https://itou332.github.io/sun/">1項目</a>
+-<a href="https://itou332.github.io/">1項目</a>
 -<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
 -<a href="https://itou332.github.io/diary">3項目</a>
 -<a href="https://itou332.github.io/today/">4項目</a>
@@ -44,11 +44,8 @@ lang: ja_JP
 <link rel="icon" type="image/png" href="./images/favicon.png" sizes="192x192">
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <meta name="keywords" content="My painting record,記録,私 svg SVG>
-                               
-url: "https://example.com" # the base hostname & protocol for your site
-plugins:
-  - jekyll-sitemap
-
+{% seo %}
+</head>
 <body>
 <hr>
 <h2>-絵を記録します。</h2>
@@ -7492,7 +7489,7 @@ PADIDwQEAADAFBAQAAAAU0BAAAAATAEBAQAAMAUEBAAAwBQQEAAAAFNAQAAAAEzxU0rBG/kAAADM
 <p>
 *献立
 -<a href="https://itou332.github.io/top_page/">主項目</a>
--<a href="https://itou332.github.io/sun/">1項目</a>
+-<a href="https://itou332.github.io/">1項目</a>
 -<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
 -<a href="https://itou332.github.io/diary">3項目</a>
 -<a href="https://itou332.github.io/today/">4項目</a>
